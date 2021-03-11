@@ -1,0 +1,19 @@
+.jumbotron{
+    margin-block-end: 5px;
+    padding-bottom: 15px;
+}
+
+.jumbotron p{
+    font-style: italic;
+}
+
+.button{
+    margin-left: 5px;
+    background-color: lightgray;
+    transition: all 0.5s;
+}
+
+.button:hover{
+    box-shadow: 0.4px 0.4rem 0.4rem rgba(0,0,0,.3);
+    transform: translateY(-1.5px);
+}
